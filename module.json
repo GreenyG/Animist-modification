@@ -1,0 +1,72 @@
+{
+  "id": "pf2e-animist-G1",
+  "title": "PF2e Animist Greeny Modification",
+  "description": "",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Greeny",
+      "url": "",
+      "discord": ""
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json"
+    },
+    {
+      "lang": "cn",
+      "name": "简体中文",
+      "path": "lang/cn.json"
+    }
+  ],
+  "esmodules": [
+    "main.mjs"
+  ],
+  "styles": [
+    "styles/main.css"
+  ],
+  "packFolders": [],
+  "packs": [
+    {
+      "label": "Animist - Effects",
+      "name": "effects",
+      "path": "packs/effects",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "Item",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "13.341",
+    "verified": "13.348"
+  },
+  "url": "https://reyzor1991.github.io/pf2e-wiki/#/module/32",
+  "manifest": "https://www.dropbox.com/scl/fi/4ha231fwfytu00q69t2jx/module.json?rlkey=gkjuf1ck10cti28du65uf8qz8&st=kdxi9btr&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/kb5p6o2stvv58sbd8h92m/pf2e-animist.zip?rlkey=62hlv9ysqomukfp847i0xjwl6&st=xoxjjdak&dl=1",
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "7.0.0",
+          "verified": "7.3.1"
+        }
+      }
+    ],
+    "requires": []
+  }
+}
