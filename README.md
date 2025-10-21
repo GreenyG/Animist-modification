@@ -4,6 +4,7 @@ NOTE: This is a modification of a pre-existing mod for a group of friends which 
 
 
 ----- Pre exisiting Items -----
+
 <img width="448" alt="image" src="https://github.com/user-attachments/assets/e0c23c9f-9a1e-4bc9-a234-661eac652164">
 
 you could change apparitions and click ghost btn to apply new spells/lores
