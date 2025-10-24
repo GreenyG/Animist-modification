@@ -1,7 +1,7 @@
 {
   "name": "pf2e-animist-g1",
   "type": "module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "scripts": {
     "local": "npm run clean && npm run build && npm run static && npm run build:packs",
